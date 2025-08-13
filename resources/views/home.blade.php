@@ -885,7 +885,7 @@
                 </div>
 
                 <div>
-                    <h4 class="text-lg font-bold mb-4">Support</h4>
+                    <h4 class="text-lg font-bold mb-4">Support ayee</h4>
                     <ul class="space-y-2">
                         <li><a href="#" class="text-gray-400 hover:text-white transition-all">Help Center</a></li>
                         <li><a href="#" class="text-gray-400 hover:text-white transition-all">FAQ</a></li>
